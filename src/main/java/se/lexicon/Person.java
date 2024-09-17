@@ -84,5 +84,6 @@ public class Person {
         return "Person{ id=" + id + ", firstName='" + firstName + ", lastName='" + lastName +
                 ",number of borrowedBooks=" + borrowedBooks.length + '}';
     }
+}
 
 
